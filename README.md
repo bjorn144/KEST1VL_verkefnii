@@ -1,2 +1,2 @@
 # KEST1VL_verkefnii
-Þessi geymsal er fyrir verkefnin mín í KEST1VL áfanganum
+Þessi geymsla er fyrir verkefnin mín í KEST1VL áfanganum
